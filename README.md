@@ -103,8 +103,11 @@ Note: This plugin requires Python 3.8 or higher.
 
 For detailed usage examples, please refer to the example files:
 
-- [Vue.js Example](example_vue.py) - Demonstrates how to use the plugin with Vue.js
-- [React Example](example_react.py) - Demonstrates how to use the plugin with React
+- [React Basic Demo](./examples/react-basic-demo) - Basic usage with React
+- [React Bits Grid Scan Demo](./examples/react-bits-grid-scan-demo) - Example: integrating `react-bits` GridScan component
+- [React Bits Lightning Demo](./examples/react-bits-lightning-demo) - Example: integrating `react-bits` Lightning component
+- [React Bits Shiny Text Demo](./examples/react-bits-shiny-text-demo) - Example: integrating `react-bits` ShinyText component
+- [Vue Basic Demo](./examples/vue-basic-demo) - Basic usage with Vue
 
 These examples show how to set up the plugin with different frontend frameworks and include test callbacks to verify that the integration is working correctly.
 
